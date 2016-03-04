@@ -1,4 +1,5 @@
 lancer en ligne de commande ou sur votre navigateur web le fichier index.html
 exemple: $ google-chrome index.html;
 Ensuite selectionnez un dictionnaire dans le bouton choose file (exemple le fichier verbe.txt fournit) et jouez.
-Vous avez 10 vie pour gagner le plus de parties. Générer un nouveaux mot avec le bouton generer un nouveaux mot. 
+Vous avez 10 vie pour gagner le plus de parties. Générer un nouveaux mot avec le bouton generer un nouveaux mot.
+J'ai utiliser yandex pour traduire les mot à la volée et utilisez jquery comme bibliotheque javascript. J'ai mit environ 2 soirée pour faire le projet qui était simple mais assez dur pour trouver l'outils de traduction et améliorer l'interface utilisateur. 
